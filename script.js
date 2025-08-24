@@ -1,8 +1,4 @@
-alert("MUHAMMADSUBHAN"); 
-alert("20 Year's Old")
-alert("Web Development");
-alert("PIZZA\nPIZZ\nPIZ\nPI\nP");
-alert("shafaybhatti0786@gmail.com");
-alert("I am trying to learn a Book of smarter\n way to learn JAVASCRIPT");
-alert("Yay!Ican write HTML content through JAVASCRIPT");
-alert("▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬" );
+alert("I am 20 year old");
+alert("you have visited this site 14 times");
+alert("my brith year is 2005 \n Date type of my declared variable is number ");
+alert("John Doe orderd 5T-shirts(s) on XYZ Clothing store");
