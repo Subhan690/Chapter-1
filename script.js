@@ -1,5 +1,8 @@
-alert("Error! Please enter a valid password");
-alert("Welcome to JS Land...\n Happy Coading!");
-alert("Welcome to JS Land");
-alert("Happy Coding");
-alert("Hello...I can run JS through my web browser's console");
+alert("MUHAMMADSUBHAN"); 
+alert("20 Year's Old")
+alert("Web Development");
+alert("PIZZA\nPIZZ\nPIZ\nPI\nP");
+alert("shafaybhatti0786@gmail.com");
+alert("I am trying to learn a Book of smarter\n way to learn JAVASCRIPT");
+alert("Yay!Ican write HTML content through JAVASCRIPT");
+alert("▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬" );
